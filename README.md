@@ -1,2 +1,2 @@
 # Genesis_jogoDaMemoria
-Jogo da memoria estilo Genesis feito na plataforma DigitalInnovationOne
+Jogo da Memoria estilo Genesis ministrado pela Gabriela Pinheiro na plataforma digital Innovation One.
